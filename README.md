@@ -13,7 +13,7 @@ NEO address: AMwyzv1h4ZLiguMFbyKpcCmagXXM3uhXng
 * Ping @baselinesecurity on Slack, Discord, or Telegram
 
 #### QuickFingersLuc Content
-* [QuickFingersLuc Content](./QFLCONTENT.md)
+* [QuickFingersLuc Content](./src/QFLCONTENT.md)
 
 * Book Recommended by QFL [Rule the Freakin Markets](https://www.amazon.com/Rule-Freakin-Markets-Profit-Market/dp/0312303076)
 
@@ -24,54 +24,54 @@ NEO address: AMwyzv1h4ZLiguMFbyKpcCmagXXM3uhXng
 * Official QFT [Discord](https://discord.gg/F4Nns38)
 
 #### Trading Exchanges
-* [Trading Exchanges](./EXCHANGES.md)
+* [Trading Exchanges](./src/EXCHANGES.md)
 
 #### Tools
-* [Base Crack Identifiers](./BASECRACKIDENTIFIERS.md)
+* [Base Crack Identifiers](./src/BASECRACKIDENTIFIERS.md)
 
-* [Signal Tools](./SIGNALSTOOLS.md)
+* [Signal Tools](./src/SIGNALSTOOLS.md)
 
 * idk where to put `“Coins in Play” Customizable Coin Watchlist
 Moonlaunch - https://www.moonlaun.ch/inplay`
 
-* [Price Change Tools](./PRICECHANGETOOLS.md)
+* [Price Change Tools](./src/PRICECHANGETOOLS.md)
 
-* [Volatility Tools](./VOLATILITYTOOLS.md)
+* [Volatility Tools](./src/VOLATILITYTOOLS.md)
 
-* [Alerts](./ALERTS.md)
+* [Alerts](./src/ALERTS.md)
 
-* [CMC Type Tools](./CMCTYPETOOLS.md)
+* [CMC Type Tools](./src/CMCTYPETOOLS.md)
 
 #### Altcoin Algorithmic Rankers
-* [Rankers](./RANKERS.md)
+* [Rankers](./src/RANKERS.md)
 
 #### Trading
-* [Breakeven Calculators](./BREAKEVENCALCULATORS.md)
+* [Breakeven Calculators](./src/BREAKEVENCALCULATORS.md)
 
-* [Charting](./CHARTING.md)
+* [Charting](./src/CHARTING.md)
 
-* [Trading Platforms](./TRADINGPLATFORMS.md)
+* [Trading Platforms](./src/TRADINGPLATFORMS.md)
 
-* [Simulators](./SIMULATORS.md)
+* [Simulators](./src/SIMULATORS.md)
 
 * [Bittrex Coin Removal Announcements](https://support.bittrex.com/hc/en-us/sections/200560334-Coin-Removals)
 hmm should we include the bot for it?
 
-* [Portfolio Management](./PORTFOLIOMANAGEMENT.md)
+* [Portfolio Management](./src/PORTFOLIOMANAGEMENT.md)
 
 * [Basic Trading Lessons](https://www.reddit.com/r/CryptoCurrency/comments/7snyex/lessons_ive_learned_in_my_first_months_of_trading/)
 
 #### Analysis
-* [Social Media/Sentiment Analyzers](./ANALYZERS.md)
+* [Social Media/Sentiment Analyzers](./src/ANALYZERS.md)
 
-* [Taxes/Trade Analysis](./TAXESTRADEANALYSIS.md)
+* [Taxes/Trade Analysis](./src/TAXESTRADEANALYSIS.md)
 
 #### Crypto 101
-* [High Level Description of Cryptos](./CRYPTODESCRIPTIONS.md)
+* [High Level Description of Cryptos](./src/CRYPTODESCRIPTIONS.md)
 
 * [Why use the Blockchain?](https://www.reddit.com/r/CryptoCurrency/comments/7shcxk/why_use_the_blockchain_instead_of_a_database_what/)
 
 #### Hardware - External Monitors ... should we have this?
 
 #### Wallets
-* [Wallets](./WALLETS.md)
+* [Wallets](./src/WALLETS.md)
