@@ -2,8 +2,6 @@
 
 Maybe A little smessage about what this is about...
 
-------
-
 
 ## Contribute:
 BTC address: 1LT9QZ1TZYF6wWgjc7EnaZ7aJJs3y6ssCs  
@@ -13,8 +11,6 @@ NEO address: AMwyzv1h4ZLiguMFbyKpcCmagXXM3uhXng
 
 ## Have a resource you would like added? 
 * Ping @baselinesecurity on Slack, Discord, or Telegram
-
-------
 
 #### QuickFingersLuc Content
 * [QuickFingersLuc Content](./QFLCONTENT.md)
