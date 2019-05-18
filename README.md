@@ -6,12 +6,10 @@ Maybe A little smessage about what this is about...
 
 
 ## Contribute:
-BTC address: 1LT9QZ1TZYF6wWgjc7EnaZ7aJJs3y6ssCs
-ETH address: 0xdf279a5b96f245bc74191d5a33b498ae790bb51b
-LTC address: LMsci2JaY3mSfJMkYqiA3PmuoUMJswJ8ED
-NEO address: AMwyzv1h4ZLiguMFbyKpcCmagXXM3uhXng
-
-------
+BTC address: 1LT9QZ1TZYF6wWgjc7EnaZ7aJJs3y6ssCs  
+ETH address: 0xdf279a5b96f245bc74191d5a33b498ae790bb51b  
+LTC address: LMsci2JaY3mSfJMkYqiA3PmuoUMJswJ8ED  
+NEO address: AMwyzv1h4ZLiguMFbyKpcCmagXXM3uhXng  
 
 ## Have a resource you would like added? 
 * Ping @baselinesecurity on Slack, Discord, or Telegram
