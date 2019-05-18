@@ -3,7 +3,7 @@
 ### Web Application
 * [Coinigy](https://www.coinigy.com/main)
 * [CryptoAlerts](https://www.cryptoalerts.ai/screeners.html)
-I think CBS would also qualify, does moonship and tradedash fall into this?
+* I think CBS would also qualify, does moonship and tradedash fall into this?
 
 ### Mobile
 * [TabTrader](https://tab-trader.com/)
